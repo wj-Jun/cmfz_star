@@ -15,7 +15,12 @@ import tk.mybatis.spring.annotation.MapperScan;
 public class CmfzStarApplication {
 
     public static void main(String[] args) {
-
+         System.out.println("123");
+        System.out.println("2132");
+        System.out.println("123");
+        System.out.println("123");
+        System.out.println("213");
+        System.out.println("1342");
         SpringApplication.run(CmfzStarApplication.class, args);
     }
 
