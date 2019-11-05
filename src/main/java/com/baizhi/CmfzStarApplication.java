@@ -20,7 +20,7 @@ public class CmfzStarApplication {
         System.out.println("123");
         System.out.println("123");
         System.out.println("213");
-        System.out.println("1342");
+     
         SpringApplication.run(CmfzStarApplication.class, args);
     }
 
